@@ -15,9 +15,11 @@ This will be a terminal-based or CLI application.
 - Java
 
 ### Instructions
-You can choose to implement your app in any one of the langauges mentioned above. Each language has its own subdirectory.
-Just `cd` into your language of choice and begin. Each langauge subdirectory has a `README.md` file that is specific to that langauge,
+You can choose to implement your app in any one of the languages mentioned above. Each language has its own subdirectory.
+Just `cd` into your language of choice and begin. Each language subdirectory has a `README.md` file that is specific to that langauge,
 so be sure to read that file for detailed instructions on how to proceed.
+
+The assessment is "open book", so you can use Google to help you, but do not look up any specific implementation of the Rot-13 algorithm.
 
 ### Requirements
 - The app shall be executed from the command line
