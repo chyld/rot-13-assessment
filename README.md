@@ -33,6 +33,8 @@ The assessment is "open book", so you can use Google to help you, but do not loo
 - Use an external config file for default values.
 - Only encode the string, do not decode.
 - Unit tests shall be written to validate the requirements.
+- Practice "clean code", i.e., variable names, code structure, comments, styling.
+- Use docstrings for function documentation.
 - The code is inside a git repository, branch your code into a `dev` branch and then commit your code, using appropriate commit messages as you progress. Once finished merge the `dev` branch back into `master`.
 
 ### Examples
